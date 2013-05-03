@@ -1,0 +1,18 @@
+    <!--Code for Engagements By Leader Bar Chart-->
+    <script type="text/javascript">
+        "use strict";
+
+        $(document).ready(function () {
+            EngagementChartBuilder.LeaderEngagementsChart.load();
+        });
+    </script>
+    <style type="text/css">
+	    #engagementsByLeaderChart {
+	        width: 300px;
+            float: left;
+	    }
+    </style>
+    <div id="engagementsByLeaderChart">
+    </div>
+    <!--End Code for Engagements By Leader Bar Chart-->
+

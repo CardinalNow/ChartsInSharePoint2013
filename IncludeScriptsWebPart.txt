@@ -1,0 +1,8 @@
+    <!--Base Scripts for Dashboard-->
+    <script src="/sites/chartingdemo/SiteAssets/jquery-1.9.1.min.js"></script>
+    <script src="/sites/chartingdemo/SiteAssets/highcharts.js"></script>
+    <script src="/sites/chartingdemo/SiteAssets/exporting.js"></script>
+    <script type="text/javascript" src="/sites/chartingdemo/SiteAssets/engagementcharts.utilities.js"></script>
+    <script type="text/javascript" src="/sites/chartingdemo/SiteAssets/engagementcharts.query.js"></script>
+    <script type="text/javascript" src="/sites/chartingdemo/SiteAssets/engagementcharts.viewmodel.js"></script>
+    <!--End Base Scripts for Dashboard-->

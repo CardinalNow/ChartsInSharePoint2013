@@ -1,0 +1,17 @@
+    <!--Code for Engagement Pie Chart Web Part-->
+    <script type="text/javascript">
+        "use strict";
+
+        $(document).ready(function () {
+            EngagementChartBuilder.EngagementsPieChart.load();
+        });
+    </script>
+    <style type="text/css">
+	    #engagementPieChart {
+	        width: 300px;
+            float: left;
+	    }
+    </style>
+    <div id="engagementPieChart">
+    </div>
+    <!--End Code for Engagement Pie Chart Web Part-->

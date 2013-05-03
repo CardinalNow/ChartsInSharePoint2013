@@ -1,0 +1,17 @@
+    <!--Code for Person Engagements By Status Stacked Bar Chart-->
+    <script type="text/javascript">
+        "use strict";
+
+        $(document).ready(function () {
+            EngagementChartBuilder.LeaderEngagementsByStatusChart.load();
+        });
+    </script>
+    <style type="text/css">
+	    #engagementsByStatusChart {
+	        width: 300px;
+            float: left;
+	    }
+    </style>
+    <div id="engagementsByStatusChart">
+    </div>
+    <!--End Code for Person Engagements By Status Stacked Bar Chart-->
